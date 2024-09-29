@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# Infinity Exim  - import-export Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Infinity Exim** is a fully responsive import export food  Website  designed for all devices, and built using **HTML**, **CSS**,**JavaScript**.
 
-## Available Scripts
+[▶️ Live Demo](https://infinity-exim.netlify.app)
 
-In the project directory, you can run:
+### Demo Screenshot
+![Macbook-Air-localhost (1)](https://github.com/user-attachments/assets/733e4125-cef5-40be-8a76-140e34b0bfce)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/842f6e4b-639d-47c2-a587-14336b891c80" alt="iPhone-11-infinity-exim netlify app" width="250"/>
+  <img src="https://github.com/user-attachments/assets/442b3f72-4d6b-473a-9e46-6db97c8f0ca0" alt="iPhone-11-infinity-exim netlify app (1)" width="250"/>
+  <img src="https://github.com/user-attachments/assets/3151ab06-8f68-4be0-a881-0bbbd14c39d4" alt="iPhone-11-infinity-exim netlify app (2)" width="250"/>
+</p>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🔗 Prerequisites
+Before you begin, make sure you have the following installed:
 
-### `npm test`
+- [Git](https://git-scm.com/downloads) must be installed on your system.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🚀 Run Locally
 
-### `npm run build`
+To run **infinity Exim** locally, follow the steps below:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Clone the repository:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Linux and macO:**
+```bash
+sudo git  clone https://github.com/Abhivagha01/infinity_exim.git
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Windows:**
+```bash
+git clone https://github.com/Abhivagha01/infinity_exim.git
+```
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🔗 Contact
+If you want to contact with me you can reach me at [Linkedin](https://www.linkedin.com/in/abhishek-vaghasiya-b56469254).
